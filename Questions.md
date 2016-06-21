@@ -14,7 +14,7 @@ Possible themes
 
 + el nino [(it's important)](http://nautil.us/blog/el-nio-has-ended-kingdoms-and-civilizations)
 + comparing future climate scenarios
-+ global temperatures (how feasible is 2`&deg;`C? -- Paris COP21)
++ global temperatures (how feasible is 2°C? -- Paris COP21)
    + compare historical CMIP5 versus reanalysis data sets
    + HadCRUT4 temperature spiral [Ed Hawkins](http://www.climate-lab-book.ac.uk/files/2016/05/spiral_optimized.gif)
    + RCP scenarios (is <8.5 feasible?)
