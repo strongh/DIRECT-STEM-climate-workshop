@@ -1,23 +1,29 @@
+Tentative theme
+======
+"The possible futures of artic sea ice"
+
+
+Broad questions
+=======
++ when will the first Arctic-sea-ice-free summer be?
+      + compare across possible scenarios
++ which areas are most sensitive/robust to climate changes?
+      + compare across possible scenarios
++ which climate scenarios are most alarming?
+      + are there "clusters" of scenarios which result in "similar" retreat of Arctic sea ice?
++ examine a component of the [Arctic amplification](https://en.wikipedia.org/wiki/Polar_amplification) feedback system.
++ what is/are the relationships between Arctic sea ice and snow cover/cloud cover/SST
++ what is the relationship between Artic sea ice and salinity?
++ how will the regional Arctic climate change compared to global climate?
+      + compare across possible scenarios
+
 Datasets
 =======
 
-+ CMIP5 (which parts?)
++ CMIP5 (mostly limited geographically to Arctic circle) (TODO be more specific about which variables are necessary)
    + TAS (surface air temperature)
-   + PR? (precipitation - precipitation flux)
-   + areacella (area of grid cells)
-+ Other datasets for SW USA?
-   + [Berkeley Earth Surface Temperature (BEST) Project](http://berkeleyearth.lbl.gov/city-list/) - location specific temperature reanalysis designed to eliminate temperature biases, such as in IPCC
-   + [PRISM High-Resolution Spatial Climate Data](http://prism.oregonstate.edu/) 
-
-Possible themes
-====
-
-+ el nino [(it's important)](http://nautil.us/blog/el-nio-has-ended-kingdoms-and-civilizations)
-+ comparing future climate scenarios
-+ global temperatures (how feasible is 2°C? -- Paris COP21)
-   + compare historical CMIP5 versus reanalysis data sets
-   + HadCRUT4 temperature spiral [Ed Hawkins](http://www.climate-lab-book.ac.uk/files/2016/05/spiral_optimized.gif)
-   + RCP scenarios (is <8.5 feasible?)
-+ how does the Southwest CONUS fair in these RCP scenarios
-   + What are the trends already in the historical? 
-      + Maybe look at precip? (not really drying)
+   + SST
+   + precipitation
+   + cloud cover?
+   + salinity?
+   + other variables related to "Arctic amplification"?
