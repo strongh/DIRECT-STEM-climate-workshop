@@ -4,15 +4,15 @@ Tentative theme
 
 Background
 =======
-+ Screen, J. a., and I. Simmonds, 2013: Caution needed when linking weather extremes
-to amplied planetary waves. Proceedings of the National Academy of Sciences
-of the United States of America, 110 (26), E2327, doi:10.1073/pnas.1304867110,
-URL (http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3696763f&gtool=
-pmcentrezf&grendertype=abstract).
++ Francis, J. A., and S. J. Vavrus, 2012: Evidence linking Arctic amplication to extreme
+weather in mid-latitudes. Geophysical Research Letters, doi:10.1029/2012GL051000, URL http://doi.wiley.com/10.1029/2012GL051000.
++ Overland, J., J. A. Francis, R. Hall, E. Hanna, S.-J. Kim, and T. Vihma (2015), The Melting Arctic and Midlatitude Weather Patterns: Are They Connected?*, Journal of Climate, doi:10.1175/JCLI-D-14-00822.1, URL http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00822.1
++ Screen, J. A., and I. Simmonds, 2010: The central role of diminishing sea ice in recent Arctic
+temperature amplication. Nature, doi:10.1038/nature09051, URL
+http://dx.doi.org/10.1038/nature09051.
 + Stroeve, J. C., M. C. Serreze, M. M. Holland, J. E. Kay, J. Malanik, and A. P. Barrett,
-2011: The Arctics rapidly shrinking sea ice cover: a research synthesis. Climatic Change,
-110 (3-4), 1005{1027, doi:10.1007/s10584-011-0101-1, (URL http://link.springer.com/10.
-1007/s10584-011-0101-1).
+2011: The Arctics rapidly shrinking sea ice cover: a research synthesis. Climatic Change, doi:10.1007/s10584-011-0101-1, URL http://link.springer.com/10.1007/s10584-011-0101-1.
++ Wang, M., and J. E. Overland (2012), A sea ice free summer Arctic within 30 years: An update from CMIP5 models, Geophysical Research Letters, doi:10.1029/2012GL052868, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052868/abstract.
 
 Broad questions
 =======
