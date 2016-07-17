@@ -1,6 +1,6 @@
-Tentative theme
+Theme
 ======
-"The possible futures of artic sea ice"
+"The possible futures of Artic sea ice"
 
 Background
 =======
