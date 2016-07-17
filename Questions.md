@@ -2,6 +2,17 @@ Tentative theme
 ======
 "The possible futures of artic sea ice"
 
+Background
+=======
++ Screen, J. a., and I. Simmonds, 2013: Caution needed when linking weather extremes
+to amplied planetary waves. Proceedings of the National Academy of Sciences
+of the United States of America, 110 (26), E2327, doi:10.1073/pnas.1304867110,
+URL (http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3696763f&gtool=
+pmcentrezf&grendertype=abstract).
++ Stroeve, J. C., M. C. Serreze, M. M. Holland, J. E. Kay, J. Malanik, and A. P. Barrett,
+2011: The Arctics rapidly shrinking sea ice cover: a research synthesis. Climatic Change,
+110 (3-4), 1005{1027, doi:10.1007/s10584-011-0101-1, (URL http://link.springer.com/10.
+1007/s10584-011-0101-1).
 
 Broad questions
 =======
