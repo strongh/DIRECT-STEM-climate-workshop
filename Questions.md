@@ -17,6 +17,7 @@ http://dx.doi.org/10.1038/nature09051.
 Frequently Asked Questions on Arctic Sea Ice
 =======
 + http://nsidc.org/arcticseaicenews/faq/
++ [Arctic Amplification Positive Feedback Loop](http://www.grida.no/graphicslib/detail/climate-feedbacks-the-connectivity-of-the-positive-icesnow-albedo-feedback-terrestrial-snow-and-vegetation-feedbacks-and-the-negative-cloudradiat_5eb0)
 
 Current Arctic Sea Ice Graphs
 =======
