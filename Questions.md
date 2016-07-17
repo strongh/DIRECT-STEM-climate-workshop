@@ -4,7 +4,7 @@ Theme
 
 Background
 =======
-+ Francis, J. A., and S. J. Vavrus, 2012: Evidence linking Arctic amplication to extreme
++ Francis, J. A., and S. J. Vavrus, 2012: Evidence linking Arctic amplification to extreme
 weather in mid-latitudes. Geophysical Research Letters, doi:10.1029/2012GL051000, URL http://doi.wiley.com/10.1029/2012GL051000.
 + Overland, J., J. A. Francis, R. Hall, E. Hanna, S.-J. Kim, and T. Vihma (2015), The Melting Arctic and Midlatitude Weather Patterns: Are They Connected?*, Journal of Climate, doi:10.1175/JCLI-D-14-00822.1, URL http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00822.1
 + Screen, J. A., and I. Simmonds, 2010: The central role of diminishing sea ice in recent Arctic
@@ -17,6 +17,7 @@ http://dx.doi.org/10.1038/nature09051.
 Frequently Asked Questions on Arctic Sea Ice
 =======
 + http://nsidc.org/arcticseaicenews/faq/
++ [What's causing Arctic amplication?](https://www.skepticalscience.com/Melting-ice-isnt-warming-Arctic.htm)
 + [Arctic Amplification Positive Feedback Loop](http://www.grida.no/graphicslib/detail/climate-feedbacks-the-connectivity-of-the-positive-icesnow-albedo-feedback-terrestrial-snow-and-vegetation-feedbacks-and-the-negative-cloudradiat_5eb0)
 
 Current Arctic Sea Ice Graphs
