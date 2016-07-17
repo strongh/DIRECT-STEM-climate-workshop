@@ -17,7 +17,7 @@ http://dx.doi.org/10.1038/nature09051.
 Frequently Asked Questions on Arctic Sea Ice
 =======
 + http://nsidc.org/arcticseaicenews/faq/
-+ [What's causing Arctic amplication?](https://www.skepticalscience.com/Melting-ice-isnt-warming-Arctic.htm)
++ [What's causing Arctic amplification?](https://www.skepticalscience.com/Melting-ice-isnt-warming-Arctic.htm)
 + [Arctic Amplification Positive Feedback Loop](http://www.grida.no/graphicslib/detail/climate-feedbacks-the-connectivity-of-the-positive-icesnow-albedo-feedback-terrestrial-snow-and-vegetation-feedbacks-and-the-negative-cloudradiat_5eb0)
 
 Current Arctic Sea Ice Graphs
