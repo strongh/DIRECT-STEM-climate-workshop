@@ -4,6 +4,8 @@ Theme
 
 Background
 =======
++ IPCC AR5 WG1 CH4 - [The Cryosphere](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter04_FINAL.pdf)
+
 + Francis, J. A., and S. J. Vavrus, 2012: Evidence linking Arctic amplification to extreme
 weather in mid-latitudes. Geophysical Research Letters, doi:10.1029/2012GL051000, URL http://doi.wiley.com/10.1029/2012GL051000.
 + Overland, J., J. A. Francis, R. Hall, E. Hanna, S.-J. Kim, and T. Vihma (2015), The Melting Arctic and Midlatitude Weather Patterns: Are They Connected?*, Journal of Climate, doi:10.1175/JCLI-D-14-00822.1, URL http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00822.1
