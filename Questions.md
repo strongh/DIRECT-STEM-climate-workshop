@@ -14,7 +14,16 @@ http://dx.doi.org/10.1038/nature09051.
 2011: The Arctics rapidly shrinking sea ice cover: a research synthesis. Climatic Change, doi:10.1007/s10584-011-0101-1, URL http://link.springer.com/10.1007/s10584-011-0101-1.
 + Wang, M., and J. E. Overland (2012), A sea ice free summer Arctic within 30 years: An update from CMIP5 models, Geophysical Research Letters, doi:10.1029/2012GL052868, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052868/abstract.
 
-Broad questions
+Frequently Asked Questions on Arctic Sea Ice
+=======
++ http://nsidc.org/arcticseaicenews/faq/
+
+Current Arctic Sea Ice Graphs
+=======
++ https://ads.nipr.ac.jp/vishop/#/extent
++ https://sites.google.com/site/arcticseaicegraphs/
+
+Broad Questions
 =======
 + when will the first Arctic-sea-ice-free summer be?
       + compare across possible scenarios
