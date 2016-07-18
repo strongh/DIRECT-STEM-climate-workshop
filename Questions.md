@@ -59,3 +59,8 @@ CMIP5 Data (TODO)
 =======
 + Standard Output - [Table of Variables](http://cmip-pcmdi.llnl.gov/cmip5/docs/standard_output.pdf) 
 + CMIP5 Data Portal - [Earth System Federation Grid](https://pcmdi.llnl.gov/projects/esgf-llnl/) --> Create an account!
++ Model : CCSM4 (http://www.cesm.ucar.edu/models/ccsm4.0/)
++ Ensembles : #1-5
+      + This will allow analysis of interannual variability and addressing model noise
++ RCP Scenarios : 2.6 | 4.5 | 8.5
++ Time : Historical (1850 - 2005), Future (RCP, 2006 - 2100)
