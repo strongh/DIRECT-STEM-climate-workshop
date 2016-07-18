@@ -40,6 +40,10 @@ Broad Questions
 + how will the regional Arctic climate change compared to global climate?
       + compare across possible scenarios
 
+Example question (for use during lecture component):
++ Under varying scenarios, which physical variables (sea ice extent, snow cover, water vapor, etc) are most closely related to warming (TAS?).
+
+
 Datasets
 =======
 
