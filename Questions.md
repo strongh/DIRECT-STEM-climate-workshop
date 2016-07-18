@@ -62,5 +62,5 @@ CMIP5 Data (TODO)
 + Model : CCSM4 (http://www.cesm.ucar.edu/models/ccsm4.0/)
 + Ensembles : #1-5
       + This will allow analysis of interannual variability and addressing model noise
-+ RCP Scenarios : 2.6 | 4.5 | 8.5
++ RCP Scenarios : 2.6 | 4.5 | 8.5 [[Vuuren et al., 2011]](http://link.springer.com/article/10.1007/s10584-011-0148-z%20/fulltext.html)
 + Time : Historical (1850 - 2005), Future (RCP, 2006 - 2100)
