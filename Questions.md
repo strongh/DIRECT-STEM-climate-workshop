@@ -46,14 +46,22 @@ Example question (for use during lecture component):
 
 Datasets
 =======
-
-+ CMIP5 (mostly limited geographically to Arctic circle) (TODO be more specific about which variables are necessary)
-   + TAS (surface air temperature)
-   + SST
-   + precipitation
-   + cloud cover?
-   + salinity?
-   + other variables related to "Arctic amplification"?
++ [CMIP5 Portal](https://pcmdi.llnl.gov/search/cmip5/) -- Focus on Arctic Circle
+      + CMIP5, CCSM4, historical, RCP2.6/RCP4.5/RCP8.5, mon
+      + TAS (near-surface air temperature, K)
+      + PR (kg m-2 s-1)
+      + SIC (sea ice concentration, %)
+      + SIT (sea ice thickness, m)
+      + TOS (sea surface temperature,)
+      + snd (snow depth on sea ice, m)
+      + snomelt (snow melt rate, kg m-2 s-1)
+      + snowToIce (snow-ice formation rate, kg m-2 s-1)
+      + tsice (surface temperature of sea ice, K)
+      + psl (sea level pressure, Pa)
+      + areacella (area of atmospheric grid cell) 
+      + areacello (area of oceanic grid cell)
+      + sftlf (land cover mask)
+      + sftof (ocean cover mask)
    
 CMIP5 Data (TODO)
 =======
