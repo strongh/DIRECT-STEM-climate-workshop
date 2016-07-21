@@ -42,12 +42,21 @@ Broad Questions
 
 Example question (for use during lecture component):
 + Under varying scenarios, which physical variables (sea ice extent, snow cover, water vapor, etc) are most closely related to warming (TAS?).
-
+   
+CMIP5 Data
+=======
++ Standard Output - [Table of Variables](http://cmip-pcmdi.llnl.gov/cmip5/docs/standard_output.pdf) 
++ CMIP5 Data Portal - [Earth System Federation Grid](https://pcmdi.llnl.gov/projects/esgf-llnl/) --> Create an account!
++ Model : CCSM4 (http://www.cesm.ucar.edu/models/ccsm4.0/)
++ Ensembles : #1-5
+      + This will allow analysis of interannual variability and addressing model noise
++ RCP Scenarios : 2.6 | 4.5 | 8.5 [[Vuuren et al., 2011]](http://link.springer.com/article/10.1007/s10584-011-0148-z%20/fulltext.html)
++ Time : MONTHLY{ Historical (1850 - 2005), Future (RCP, 2006 - 2100)}
 
 Datasets
 =======
 + [CMIP5 Portal](https://pcmdi.llnl.gov/search/cmip5/) -- Focus on Arctic Circle
-      + CMIP5, CCSM4, historical, RCP2.6/RCP4.5/RCP8.5, mon
+      + Select --> CMIP5, CCSM4, historical, RCP2.6/RCP4.5/RCP8.5, mon (monthly)
       + TAS (near-surface air temperature, K)
       + PR (kg m-2 s-1)
       + SIC (sea ice concentration, %)
@@ -62,13 +71,3 @@ Datasets
       + areacello (area of oceanic grid cell)
       + sftlf (land cover mask)
       + sftof (ocean cover mask)
-   
-CMIP5 Data (TODO)
-=======
-+ Standard Output - [Table of Variables](http://cmip-pcmdi.llnl.gov/cmip5/docs/standard_output.pdf) 
-+ CMIP5 Data Portal - [Earth System Federation Grid](https://pcmdi.llnl.gov/projects/esgf-llnl/) --> Create an account!
-+ Model : CCSM4 (http://www.cesm.ucar.edu/models/ccsm4.0/)
-+ Ensembles : #1-5
-      + This will allow analysis of interannual variability and addressing model noise
-+ RCP Scenarios : 2.6 | 4.5 | 8.5 [[Vuuren et al., 2011]](http://link.springer.com/article/10.1007/s10584-011-0148-z%20/fulltext.html)
-+ Time : Historical (1850 - 2005), Future (RCP, 2006 - 2100)
