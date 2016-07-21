@@ -71,3 +71,4 @@ Datasets
       + areacello (area of oceanic grid cell)
       + sftlf (land cover mask)
       + sftof (ocean cover mask)
++ This is a significant amount of data (50GB+). I think it may be beneficial for us to have some data sets already available for common fields (TAS/PR/SIC/areacella/areacello/sftlf/sftof), but have the rest as options for the participants to download for whatever project they are interested in. Setting up an account on the site is usually easy and may even be beneficial. We can include steps on how to navigate the site and understand the modeling terminology (should not take long).
