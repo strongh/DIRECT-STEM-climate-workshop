@@ -13,6 +13,7 @@ temperature amplication. Nature, doi:10.1038/nature09051, URL
 http://dx.doi.org/10.1038/nature09051.
 + Stroeve, J. C., M. C. Serreze, M. M. Holland, J. E. Kay, J. Malanik, and A. P. Barrett,
 2011: The Arctics rapidly shrinking sea ice cover: a research synthesis. Climatic Change, doi:10.1007/s10584-011-0101-1, URL http://link.springer.com/10.1007/s10584-011-0101-1.
++ Stroeve, J. C., V. Kattsov, A. Barrett, M. Serreze, T. Pavlova, M. Holland, and W. N. Meier (2012), Trends in Arctic sea ice extent from CMIP5, CMIP3 and observations, Geophysical Research Letters, doi:10.1029/2012GL052676, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052676/full.
 + Wang, M., and J. E. Overland (2012), A sea ice free summer Arctic within 30 years: An update from CMIP5 models, Geophysical Research Letters, doi:10.1029/2012GL052868, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052868/abstract.
 
 Frequently Asked Questions on Arctic Sea Ice
