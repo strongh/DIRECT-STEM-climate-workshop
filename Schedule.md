@@ -1,18 +1,18 @@
 # Workshop Schedule
 ## Day 1 -- Tuesday August 16
-**Location: TBD**
+**Location: DBH 4011**
 
 | Time | Module | Presenter(s) & Milestones |
 | :--------- | :--------------------------------------------------------------- | :------------------------- |
-| 9:00-10:30 | Analyzing climate data with python (part I) | Homer Strong  |
-| 10:30-12:00 | Analyzing climate data with python (part II)  | Zachary Labe |
+| 9:00-10:30 | Analyzing climate data with python (part I) | Zachary Labe  |
+| 10:30-12:00 | Analyzing climate data with python (part II)  | Homer Strong |
 | 12:00-1:00 | Lunch | |
 | 1:00-4:00 | Work time  |  |
 | 5:00 | Adjourn | |
 
 
 ## Day 2 -- Wednesday August 17
-**Location: TBD**
+**Location: DBH 4011**
 
 | Time | Module | Presenter(s) & Milestones |
 | :--------- | :--------------------------------------------------------------- | :------------------------- |
