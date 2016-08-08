@@ -77,7 +77,7 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
     data = Dataset(directory + filename)
     lats = data.variables['lat'][:]
     lons = data.variables['lon'][:]
-    var = data.variables['%s' % (vari)][:]    
+    var = data.variables['%s' % (vari)][:]
     data.close()
     
     ### Select simulation
@@ -88,7 +88,6 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
         years = 95
     else:
         ValueError('wrong simulation selected!')
-    
     ### Reshape array 
     var = np.reshape(var,(years,12,lats.shape[0],lons.shape[0]))
     
@@ -101,4 +100,73 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
 #
 #directory = '../Data/'
 #lats,lons,var = readCMIP5Data(directory,'gridded','historical','1','tas')
+
+
+def readUtilityData(directory,domain,vari):
+    """
+    Function reads in utility CCSM4 geographical data using netCDF4 module with output as an 
+    array.
+    
+    Parameters
+    ----------
+    directory : string
+        working directory for cmip5 data
+    domain : string
+        global, gridded 
+    ensemble : string
+        1,2,3,4,5
+    vari : string
+        areacella,areacello,landfrac,oceanfrac
+        
+    Returns
+    -------
+    var : 4d array
+        areacella,areacello,landfrac,oceanfrac [lat,lon]
+        
+    Usage 
+    -----
+    lats,lons,var = readCMIP5Data(directory,'gridded','tas')
+    """
+    
+    ### Assign modules
+    import numpy as np
+    from netCDF4 import Dataset
+    
+
+    
+    ### Assign variable grids
+    if domain == 'gridded':
+        landgrid = [vari=='areacella',vari=='landfrac']
+        oceangrid = [vari=='areacello',vari=='oceanfrac']
+        if any(landgrid):
+            grid = 'grid65N_'
+        elif any(oceangrid):
+            grid = 'grid50N_'
+        else:
+            ValueError('variable naming error!')
+    elif domain == 'global':
+        grid = ''
+    else:
+        ValueError('wrong value for domain selected!')
+    
+    ### Assign file    
+    filename = '%s_%sCCSM4.nc' % (vari,grid)
+    
+    ### Read in netcdf file
+    data = Dataset(directory + filename)
+    lats = data.variables['lat'][:]
+    lons = data.variables['lon'][:]
+    var = data.variables['%s' % (vari)][:]
+    data.close()
+    
+    ### Reshape array 
+    var = np.reshape(var,(lats.shape[0],lons.shape[0]))
+    
+    return lats,lons,var
+
+###########################################################################
+###########################################################################
+### Example syntax:
+#directory = '../Data/'
+#lats,lons,var = readUtilityData(directory,'gridded','landfrac')
 
