@@ -16,10 +16,7 @@ http://dx.doi.org/10.1038/nature09051.
 + Stroeve, J. C., V. Kattsov, A. Barrett, M. Serreze, T. Pavlova, M. Holland, and W. N. Meier (2012), Trends in Arctic sea ice extent from CMIP5, CMIP3 and observations, Geophysical Research Letters, doi:10.1029/2012GL052676, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052676/full.
 + Wang, M., and J. E. Overland (2012), A sea ice free summer Arctic within 30 years: An update from CMIP5 models, Geophysical Research Letters, doi:10.1029/2012GL052868, URL http://onlinelibrary.wiley.com/doi/10.1029/2012GL052868/abstract.
 
-+ Here are a few excellent (and easily digestible) documentaries/videos on Arctic climate change and sea level rise. In the VICE documentaries, look out for Professor Eric Rignot who is a glaciologist in the Department of Earth System Science at UCI
-+ Our Rising Oceans (VICE): https://www.youtube.com/watch?v=Kp6_sDiup6U
-+ Greenland is Melting (VICE, first half of episode): https://www.youtube.com/watch?v=7Yq-sfWSWLg
-+ Arctic Climate Change and Polar Amplification (US State Department):  https://www.youtube.com/watch?v=jSEr6uYs-t8
++ Here are a few excellent (and easily digestible) documentaries/videos on Arctic climate change and sea level rise. In the VICE documentaries, look out for Professor Eric Rignot who is a glaciologist in the Department of Earth System Science at UCI. Our Rising Oceans (VICE): https://www.youtube.com/watch?v=Kp6_sDiup6U; Greenland is Melting (VICE, first half of episode): https://www.youtube.com/watch?v=7Yq-sfWSWLg; Arctic Climate Change and Polar Amplification (US State Department):  https://www.youtube.com/watch?v=jSEr6uYs-t8
 
 Frequently Asked Questions on Arctic Sea Ice
 =======
