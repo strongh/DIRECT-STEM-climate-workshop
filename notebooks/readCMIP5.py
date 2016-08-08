@@ -80,6 +80,8 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
     var = data.variables['%s' % (vari)][:]
     data.close()
     
+    print lats.shape
+    
     ### Select simulation
     rcps = [simulation=='rcp26',simulation=='rcp45',simulation=='rcp85']
     if simulation == 'historical':
@@ -89,7 +91,14 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
     else:
         ValueError('wrong simulation selected!')
     ### Reshape array 
-    var = np.reshape(var,(years,12,lats.shape[0],lons.shape[0]))
+    landgrid = [vari=='tas',vari=='pr',vari=='psl']
+    oceangrid = [vari=='tos',vari=='sic',vari=='sit',vari=='snd']
+    if any(landgrid):
+        var = np.reshape(var,(years,12,lats.shape[0],lons.shape[0]))
+    elif any(oceangrid):
+        var = np.reshape(var,(years,12,lats.shape[0],lons.shape[1]))
+    else:
+        ValueError('%s array has not been reshaped!' % vari)
     
     return lats,lons,var
 
@@ -97,8 +106,7 @@ def readCMIP5Data(directory,domain,simulation,ensemble,vari):
 ###########################################################################
 ### Example syntax:
 #CCSM4 surface air temperature, Arctic grid, historical, ensemble 1
-#
-#directory = '../Data/'
+#directory = '.../Data/'
 #lats,lons,var = readCMIP5Data(directory,'gridded','historical','1','tas')
 
 
@@ -169,4 +177,3 @@ def readUtilityData(directory,domain,vari):
 ### Example syntax:
 #directory = '../Data/'
 #lats,lons,var = readUtilityData(directory,'gridded','landfrac')
-
