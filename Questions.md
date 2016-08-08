@@ -78,3 +78,11 @@ Datasets
       + *sftlf (land cover mask)
       + *sftof (ocean cover mask)
 + This is a significant amount of data (50GB+). I think it may be beneficial for us to have some data sets already available for common fields (TAS/PR/SIC/areacella/areacello/sftlf/sftof), but have the rest as options for the participants to download for whatever project they are interested in. Setting up an account on the site is usually easy and may even be beneficial. We can include steps on how to navigate the site and understand the modeling terminology (should not take long).
+
+Python Resources
+======
+
++ [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/index.html)
++ [numpy](http://docs.scipy.org/doc/numpy/genindex.html)
++ [pandas](http://pandas.pydata.org/pandas-docs/stable/)
++ [Basemap examples](http://matplotlib.org/basemap/users/examples.html)
