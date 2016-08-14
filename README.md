@@ -25,6 +25,7 @@ With the exception of the climate data, all materials for teaching are contained
  4. Type ```conda install -c anaconda netcdf4=1.2.4``` and press enter or return. Confirm that you'd like it to make any changes that it offers.
  5.	Type ```conda install -c anaconda basemap``` and press enter or return. Confirm that you'd like it to make any changes that it offers.
  6.	Type ```conda install -c anaconda seaborn``` and press enter or return. Confirm that you'd like it to make any changes that it offers.
+ 7.	Type ```conda install -c anaconda statsmodels``` and press enter or return. Confirm that you'd like it to make any changes that it offers.
 
 3. **Download the code repository**.  
  1. [Download](https://github.com/strongh/DIRECT-STEM-climate-workshop/archive/master.zip) to download a zip file containing this entire repository.
