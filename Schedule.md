@@ -4,7 +4,8 @@
 
 | Time | Module | Presenter(s) & Milestones |
 | :--------- | :--------------------------------------------------------------- | :------------------------- |
-| 9:30-11:00 | Analyzing climate data with python (part I) | Zachary Labe  |
+| 9:30-10:00 | Orientation & setup |   |
+| 10:00-11:00 | Analyzing climate data with python (part I) | Zachary Labe  |
 | 11:00-12:30 | Analyzing climate data with python (part II)  | Homer Strong |
 | 12:30-1:30 | Lunch | |
 | 1:30-4:30 | Work time  |  |
