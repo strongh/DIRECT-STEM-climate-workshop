@@ -8,6 +8,7 @@
 | 10:00-11:00 | Analyzing climate data with python (part I) | Zachary Labe  |
 | 11:00-12:30 | Analyzing climate data with python (part II)  | Homer Strong |
 | 12:30-1:30 | Lunch | |
+| 1:30 | Form teams | |
 | 1:30-4:30 | Work time  | Find a question, identify and explore relevant CMIP5 data |
 | 5:30 | Adjourn | Plan your analyses for following day |
 
