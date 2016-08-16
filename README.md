@@ -41,4 +41,4 @@ With the exception of the climate data, all materials for teaching are contained
 
 The data are available on Google Drive, using this link:
 
-[https://drive.google.com/open?id=0B2OMTC2qNBRtXzlTa1FBdnpJZ2s](https://drive.google.com/open?id=0B2OMTC2qNBRtXzlTa1FBdnpJZ2s)
+[https://drive.google.com/drive/u/1/folders/0B-fajW5_wjjPSURZMkZuMms5emM](https://drive.google.com/drive/u/1/folders/0B-fajW5_wjjPSURZMkZuMms5emM)
