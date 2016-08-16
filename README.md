@@ -1,5 +1,5 @@
 # DIRECT-STEM climate workshop
-Materials for the DIRECT-STEM climate workshop at UCI
+Materials for the DIRECT-STEM climate workshop at UCI, August 16-17 2016.
 
 ## Description and goals
 The goal of this workshop is to introduce students to the use of the Python programming language for data analysis, using data related to climate change in the Arctic as a testbed/case-study to illustrate various concepts. The Arctic is warming twice as fast as the rest of the globe and its future is uncertain. Participants will form teams to address scientific questions of interest using python to process and visualize global climate model data. For the first half-day the instructors will walk through an example analysis, simultaneously covering the technical aspects and the scientific background. The python toolkit will include numpy, pandas, matplotlib, and jupyter notebooks. Most of the workshop time will be devoted to performing data analysis and visualization, with the support of the instructors. The workshop will end with each team presenting their findings.
