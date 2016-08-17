@@ -17,7 +17,7 @@ With the exception of the climate data, all materials for teaching are contained
 
 ## Instructions
 
-1.  If you haven't do so already, download and **install the [Anaconda Scientific Python Distribution version 2.7](https://www.continuum.io/downloads)**.  If it offers to make itself your default Python distribution, allow it. In Windows, you will be asked to i) select a location to install anaconda (pick wherever you want); ii) to add Anaconda to the system PATH (check the box); iii) whether you want to register Anaconda as the system Python (check the box).
+1.  If you haven't do so already, download and **install the [Anaconda Scientific Python Distribution version 2.7](https://www.continuum.io/downloads)**. Beforehand, remove any existing Anaconda distributions you may have previously downloaded. If it offers to make itself your default Python distribution, allow it. In Windows, you will be asked to i) select a location to install anaconda (pick wherever you want); ii) to add Anaconda to the system PATH (check the box); iii) whether you want to register Anaconda as the system Python (check the box).
 2. Whether you've just installed Anaconda, or you have done so previously, you should now **update Anaconda** to the latest version of the distribution.  It changes a lot so do this today even if you did recently.
  1. Open a terminal or command prompt or an 'Anaconda prompt' (In Windows you can find the latter in the start menu programs).
  2. Type ```conda update conda``` and press enter or return.  Confirm that you'd like it to make any changes that it offers.
